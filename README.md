@@ -20,4 +20,5 @@ EDA involved the exploration of the data and some questions such as;
 - Sum of number of people
 
   ### Data Visualization
+  !(Visuals)https://github.com/Easywrld007/My-first-Data-Analysis-Project/blob/main/MY%20FIRST%20PROJECT.pbix
   
