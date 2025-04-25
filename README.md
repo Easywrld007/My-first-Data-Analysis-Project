@@ -18,3 +18,6 @@ The primary source of data used here is Global_Cybersecurity_Threats_2015-2024.c
 EDA involved the exploration of the data and some questions such as;
 - Sum of Financial loss by country
 - Sum of number of people
+
+  ### Data Visualization
+  
